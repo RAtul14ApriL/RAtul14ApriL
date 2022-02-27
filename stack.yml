@@ -1,0 +1,27 @@
+- name: React
+  logo: react
+  url: https://reactjs.org/
+  color: '#61dafb'
+  projects:
+    - url: https://github.com/RAtul14ApriL/hire-d
+    - url: https://github.com/RAtul14ApriL/scheduler
+
+- name: Ruby on Rails
+  logo: rubyonrails
+  url: https://rubyonrails.org/
+  color: '#3C78A9'
+  projects:
+    - url: https://github.com/RAtul14ApriL/jungle-rails
+
+- name: PostgreSQL
+  logo: postgresql
+  url: https://postgres.org
+  color: '#336791'
+  projects:
+    - url: https://github.com/RAtul14ApriL/hire-d
+    - url: https://github.com/RAtul14ApriL/midterm_marketplace
+
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Se

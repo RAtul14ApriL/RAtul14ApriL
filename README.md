@@ -4,8 +4,18 @@ I am a Full Stack Developer. I have graduated from Lighthouse Labs Web Developme
 ### 📫 How to reach me:
  email: ratul14april@gmail.com
  linkedin: https://www.linkedin.com/in/ratul14april/
- https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fratul14april
- https://img.shields.io/badge/LinkedIn-connect-blue
+ ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fratul14april)
+ 
+ ---
+
+🧰 Toolbox
+---
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+
+---
+
+---
+
 
 <!--
 **RAtul14ApriL/RAtul14ApriL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

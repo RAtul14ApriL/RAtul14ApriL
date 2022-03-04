@@ -26,8 +26,6 @@ I am a Full Stack Developer. I have graduated from Lighthouse Labs Web Developme
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![Hello](https://img.shields.io/badge/RATUL-Hey%20You!-yellow)
-
 
 ## &#x1f4c8; My GitHub Stats
 

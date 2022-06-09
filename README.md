@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Ratul
-I am a Full Stack Developer. I have graduated from Lighthouse Labs Web Development Bootcamp in February 2022. I have gained hands-on experience on Javascript, React, Node/Express, PostgreSQL, Ruby on Rails, HTML5, CSS, SASS and jQuery. I have also gained experience in testing tools like Cypress, Jest, Mocha and Chai. I have developed several apps namely, Hire/:D (online portfolio app), Interview Scheduler, Jungle (e-commerce app), TechMarket (online buy-sell marketplace), TinyApp (URL shortener app), etc. Currently I am working at ![unINK Marketing & Creative Agency](https://www.unink.ca/) as a Full-time Junior Developer.
+I am a Full Stack Developer. I have graduated from Lighthouse Labs Web Development Bootcamp in February 2022. I have gained hands-on experience on Javascript, React, Node/Express, PostgreSQL, Ruby on Rails, HTML5, CSS, SASS and jQuery. I have also gained experience in testing tools like Cypress, Jest, Mocha and Chai. I have developed several apps namely, Hire/:D (online portfolio app), Interview Scheduler, Jungle (e-commerce app), TechMarket (online buy-sell marketplace), TinyApp (URL shortener app), etc. Currently I am working at [unINK Marketing & Creative Agency](https://www.unink.ca/) as a Full-time Junior Developer.
 
  
 ### 📫 How to reach me:

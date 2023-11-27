@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Ratul
-I am a Full Stack Developer. I have graduated from Lighthouse Labs Web Development Bootcamp in February 2022. I have gained hands-on experience on Javascript, React, Node/Express, PostgreSQL, Ruby on Rails, HTML5, CSS, SASS and jQuery. I have also gained experience in testing tools like Cypress, Jest, Mocha and Chai. I have developed several apps namely, Hire/:D (online portfolio app), Interview Scheduler, Jungle (e-commerce app), TechMarket (online buy-sell marketplace), TinyApp (URL shortener app), etc. Currently I am actively looking for a Junior Developer position.
+I am a Full Stack Developer. I have graduated from Lighthouse Labs Web Development Bootcamp in February 2022. I have gained hands-on experience on Javascript, React, Node/Express, PostgreSQL, HTML5, CSS, SASS and jQuery. I have also gained experience in testing tools like Cypress, Jest, Mocha and Chai. I have developed several apps namely, Hire/:D (online portfolio app), Interview Scheduler, Jungle (e-commerce app), TechMarket (online buy-sell marketplace), TinyApp (URL shortener app), etc. Currently I am actively looking for a Junior Developer position.
 
  
 ### 📫 How to reach me:
@@ -13,8 +13,6 @@ I am a Full Stack Developer. I have graduated from Lighthouse Labs Web Developme
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
